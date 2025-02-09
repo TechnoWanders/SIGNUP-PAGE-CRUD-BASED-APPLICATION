@@ -1,0 +1,9 @@
+1. HTML code 
+<form action="submit" method="get">
+	<label>USERNAME</label>
+	<input type='text' placeholder='ENTER USERNAME'></input>
+	<label>PASSWORD</label>
+	<input type='text' placeholder='ENTER PASSWORD'></input>
+</form>
+
+<h1>your username is and password is </h1>
